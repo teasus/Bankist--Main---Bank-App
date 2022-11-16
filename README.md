@@ -12,16 +12,16 @@ USE THESE IDS TO LOGIN
 
 USER : 
 const account1 = {
-  user:'js',
+  user:'js',   
   pin: 1111,
 };
 
 const account2 = {
- user:'jd',
+ user:   'jd',    
   pin: 2222,
 };
 
 const account3 = {
-  user: 'ar',
-  pin: 3333,
+  user:  'ar',   
+  pin: 2222,
 };
