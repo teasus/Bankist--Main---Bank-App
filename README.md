@@ -7,7 +7,9 @@ Features :
 1. User can send money to other user .
 2. User can get loan from the bank , which cant exceed above 9 times their available balance (900%)  of their total available balance .
 (eg: you have 100 in your account then loan amt cant exceed above 1000 )
+4. Used world time API to fetch current time based on current region of user .
 
+USE THESE IDS TO LOGIN 
 USER : 
 const account1 = {
   owner: 'js',
