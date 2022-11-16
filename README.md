@@ -11,7 +11,7 @@ Features :
 USE THESE IDS TO LOGIN 
 
  USER : 
- const account1 =    user: js   pin: 1111
+ const account1 =    user:  js   pin: 1111
 
 
  const account2 =    user:  jd  pin: 2222
@@ -24,3 +24,5 @@ YET TO ADD :
  1. As of now crud is implemented locally so limited to 3 users{will soon add a online database to store all details like transactions, id pass for verfication and all CRUD functionalities into a database .
 
  2. Creating a new new User using GOOGLE AUTH .
+ 
+ 
