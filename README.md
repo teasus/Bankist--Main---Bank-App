@@ -10,19 +10,14 @@ Features :
 
 USE THESE IDS TO LOGIN 
 
-USER : 
-const account1 =    user: js   pin: 1111
+ USER : 
+ const account1 =    user: js   pin: 1111
 
 
-const account2 = {
- user:   'jd',    
-  pin: 2222,
-};
+ const account2 =    user:  jd  pin: 2222
 
-const account3 = {
-  user:  'ar',   
-  pin: 2222,
-};
+
+ const account3 =    user:  ar  pin: 2222
 
 YET TO ADD :
 
