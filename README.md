@@ -11,13 +11,13 @@ Features :
 USE THESE IDS TO LOGIN 
 
  USER : 
- const account1 =    user:  js   pin: 1111
+ const account1 =    user:  js   pin: 1111 Currency = EUR
 
 
- const account2 =    user:  jd  pin: 2222
+ const account2 =    user:  jd  pin: 2222 Currency = USD
 
 
- const account3 =    user:  ar  pin: 2222
+ const account3 =    user:  ar  pin: 2222 Currency = INR 
 
 YET TO ADD :
 
